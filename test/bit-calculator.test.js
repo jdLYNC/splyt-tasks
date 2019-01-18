@@ -1,4 +1,5 @@
 const { expect } = require('chai');
+const calculate = require('../bit-calculator');
 
 describe('Bit Calculator', () => {
 
