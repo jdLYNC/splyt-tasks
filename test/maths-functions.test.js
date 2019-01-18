@@ -1,4 +1,7 @@
 const { expect } = require('chai');
+const {
+  one, two, three, four, five, six, seven, eight, nine, plus, minus, times, dividedBy
+} = require('../maths-functions');
 
 describe('Maths Functions', () => {
 
