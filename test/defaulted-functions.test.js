@@ -1,4 +1,5 @@
 const { expect } = require('chai');
+const defaultArguments = require('../defaulted-functions');
 
 describe('Defaulted Functions', () => {
 
